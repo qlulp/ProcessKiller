@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Tst\Tst\obj\Debug\Tst.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tst\Tst\bin\Debug\ProcessKiller.exe.config
+C:\Users\Admin\source\repos\Tst\Tst\bin\Debug\ProcessKiller.exe
+C:\Users\Admin\source\repos\Tst\Tst\bin\Debug\ProcessKiller.pdb
+C:\Users\Admin\source\repos\Tst\Tst\obj\Debug\ProcessKiller.exe
+C:\Users\Admin\source\repos\Tst\Tst\obj\Debug\ProcessKiller.pdb
